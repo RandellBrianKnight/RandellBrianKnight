@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knight-Tech-Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
