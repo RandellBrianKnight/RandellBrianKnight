@@ -26,8 +26,9 @@
 - 👔 Enjoy learning **HTML**, **CSS**, and **JavaScript**
 - ✨ Like creating different types of content; including digital graphics
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
-- ✔️ I'm Familiar with Windows, MacOS, RHEL, Fedora, Ubuntu, and OpenSUSE Linux
-- 👉 Currently using Opensuse Tumbleweed Linux with KDE Plasma for my production workstation
+- ✔️ I'm Familiar with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux
+- 👉 Currently using PeppermintOS-Devuan with XFCE for my production workstation
+- 🖥️ Having fun distro-hopping Linux
 - 🌱 Lifelong learner who enjoys "all things tech"
 - 📦 Open-source enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military
