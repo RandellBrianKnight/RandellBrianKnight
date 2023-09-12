@@ -125,14 +125,11 @@
 
 <br>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
-<br>
-
 <div align="center">
 
 [![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
