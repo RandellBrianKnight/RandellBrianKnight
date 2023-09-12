@@ -130,9 +130,13 @@
 
 [![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandellBrianKnight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=RandellBrianKnight)
 
 <br>
 
