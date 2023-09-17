@@ -28,7 +28,7 @@
 - ✨ Like creating different types of content; including digital graphics
 - ✔️ I'm Familiar with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux
 - 👉 Currently using PeppermintOS-Devuan with XFCE for my production desktop
-- 👌🏼 And using Devuan (fork of Debian without systemd) on my laptop
+- 👌🏼 And using PeppermintOS-Devuan-base on my laptop
 - 🖥️ Having fun distro-hopping Linux using Ventoy on USB drive and VirtualBox
 - 🌱 Lifelong learner who enjoys "all things tech"
 - 📦 Open-source enthusiast! 🎉
