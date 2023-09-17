@@ -128,9 +128,11 @@
 
 <div align="center">
 
-[![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandellBrianKnight)](https://github.com/anuraghazra/github-readme-stats)
+[![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandellBrianKnight&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandellBrianKnight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandellBrianKnight&layout=donut-vertical&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p title="Github Stats provided courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats">Github Stats provided courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats</p>
 
 </div>
 
