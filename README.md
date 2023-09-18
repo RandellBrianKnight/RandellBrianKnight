@@ -18,22 +18,25 @@
 
 <body>
 
+<div align="center">
+  
 ***About Me***
 
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - 💪 My superpower is the Salesforce platform and ecosystem!
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
-- 📢 Studying Salesforce platform on Trailhead with Ranger rank ⭐️ 
+- 📢 Learning Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy learning **HTML**, **CSS**, and **JavaScript**
 - ✨ Like creating different types of content; including digital graphics
 - ✔️ I'm Familiar with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux
-- 👉 Currently using PeppermintOS-Devuan with XFCE for my production desktop
-- 👌🏼 And using PeppermintOS-Devuan-base on my laptop
-- 🖥️ Having fun distro-hopping Linux using Ventoy on USB drive and VirtualBox
-- 🌱 Lifelong learner who enjoys "all things tech"
+- 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop
+- 🖥️ Having fun distro-hopping Linux using VM's and Ventoy on USB drive 🐧
+- 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Open-source enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
 - 👨🏻‍💻 Let's connect! 🗣
+
+</div>
 
 <div id="badges">
 
@@ -123,6 +126,7 @@
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=RandellBrianKnight)
 
 <br>
 
@@ -135,12 +139,6 @@
 <p title="Github Stats provided courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats">Github Stats provided courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats</p>
 
 </div>
-
-<br>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=RandellBrianKnight)
-
-<br>
 
 <div id="html" align="center">
 
