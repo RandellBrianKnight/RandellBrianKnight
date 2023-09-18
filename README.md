@@ -18,8 +18,6 @@
 
 <body>
 
-<div align="center">
-  
 ***About Me***
 
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
@@ -35,8 +33,6 @@
 - 📦 Open-source enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
 - 👨🏻‍💻 Let's connect! 🗣
-
-</div>
 
 <div id="badges">
 
@@ -126,7 +122,7 @@
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Profile View Counter](https://komarev.com/ghpvc/?username=RandellBrianKnight)
+![Profile View Counter](https://komarev.com/ghpvc/?username=RandellBrianKnight)
 
 <br>
 
