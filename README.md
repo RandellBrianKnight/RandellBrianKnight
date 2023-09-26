@@ -26,13 +26,13 @@
 - 📢 Learning Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy learning **HTML**, **CSS**, and **JavaScript**
 - ✨ Like creating different types of content; including digital graphics
-- ✔️ I'm Familiar with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux
-- 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop
-- 🖥️ Having fun distro-hopping Linux using VM's and Ventoy on USB drive 🐧
+- 🧙‍  Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
+- 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
+- 🖥️ Having fun distro-hopping Linux systems using VM's and Ventoy on USB drive 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Open-source enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
-- 👨🏻‍💻 Let's connect! 🗣
+- 🗣 Let's connect! 🥸
 
 <div id="badges">
 
