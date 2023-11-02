@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<div align="center" height="350" width="440">
+<div align="center" height="250" width="314">
 
 ![CodingFromHomeLightLettering-giphy](https://user-images.githubusercontent.com/6032445/224421599-d4f64da8-398e-4130-a6d8-e68f22d27afc.gif)
 
@@ -146,22 +146,6 @@
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![animated-computer-image-0400](https://user-images.githubusercontent.com/6032445/224101882-131b3a1e-31c2-481d-9b87-14ed23d1aef5.gif)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 </div>
 
