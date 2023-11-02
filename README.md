@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<div align="center" height="350" width="440">
+<div align="center" height="250" width="314">
 
 ![CodingFromHomeLightLettering-giphy](https://user-images.githubusercontent.com/6032445/224421599-d4f64da8-398e-4130-a6d8-e68f22d27afc.gif)
 
@@ -149,47 +149,11 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-![animated-computer-image-0400](https://user-images.githubusercontent.com/6032445/224101882-131b3a1e-31c2-481d-9b87-14ed23d1aef5.gif)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <a href="https://app.daily.dev/RandyKnight"><img src="https://api.daily.dev/devcards/7ce33e4730d0494c9d97a4103881b999.png?r=ig4" width="400" alt="Randy Knight's Dev Card"/></a>
 
 </div>
-
-<br>
-
-<div align="left">
-
-```
-8888888 8888888888 8 8888        8          .8.          b.             8 8 8888     ,88'   `8.`8888.      ,8'     ,o888888o.     8 8888      88 
-      8 8888       8 8888        8         .888.         888o.          8 8 8888    ,88'     `8.`8888.    ,8'   . 8888     `88.   8 8888      88 
-      8 8888       8 8888        8        :88888.        Y88888o.       8 8 8888   ,88'       `8.`8888.  ,8'   ,8 8888       `8b  8 8888      88 
-      8 8888       8 8888        8       . `88888.       .`Y888888o.    8 8 8888  ,88'         `8.`8888.,8'    88 8888        `8b 8 8888      88 
-      8 8888       8 8888        8      .8. `88888.      8o. `Y888888o. 8 8 8888 ,88'           `8.`88888'     88 8888         88 8 8888      88 
-      8 8888       8 8888        8     .8`8. `88888.     8`Y8o. `Y88888o8 8 8888 88'             `8. 8888      88 8888         88 8 8888      88 
-      8 8888       8 8888888888888    .8' `8. `88888.    8   `Y8o. `Y8888 8 888888<               `8 8888      88 8888        ,8P 8 8888      88 
-      8 8888       8 8888        8   .8'   `8. `88888.   8      `Y8o. `Y8 8 8888 `Y8.              8 8888      `8 8888       ,8P  ` 8888     ,8P 
-      8 8888       8 8888        8  .888888888. `88888.  8         `Y8o.` 8 8888   `Y8.            8 8888       ` 8888     ,88'     8888   ,d8P  
-      8 8888       8 8888        8 .8'       `8. `88888. 8            `Yo 8 8888     `Y8.          8 8888          `8888888P'        `Y88888P' 
-```
-</div>    
 
 <br>
 
