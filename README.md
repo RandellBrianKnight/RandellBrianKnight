@@ -2,15 +2,9 @@
 <html>
 <head>
 
-<div align="center" height="250" width="314">
+<div class="custom-banner-image" { width: 100% !important;}>
 
-![CodingFromHomeLightLettering-giphy](https://user-images.githubusercontent.com/6032445/224421599-d4f64da8-398e-4130-a6d8-e68f22d27afc.gif)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hello%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/RandellBrianKnight/RandellBrianKnight/assets/6032445/d541b48f-0e5d-48f7-b745-fc70d5846ba0)
 
 </div>
 
