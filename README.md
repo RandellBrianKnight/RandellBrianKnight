@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<div align="center" height="250" width="314">
+<div class="custom-banner-image" { width: 100% !important;}>
 
-![CodingFromHomeLightLettering-giphy](https://user-images.githubusercontent.com/6032445/224421599-d4f64da8-398e-4130-a6d8-e68f22d27afc.gif)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/RandellBrianKnight/RandellBrianKnight/assets/6032445/d541b48f-0e5d-48f7-b745-fc70d5846ba0)
 
 </div>
 
