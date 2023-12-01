@@ -18,7 +18,7 @@
 - 💪 My superpower is the Salesforce platform and ecosystem!
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
 - 📢 Learning Salesforce platform on Trailhead with Ranger rank ⭐️ 
-- 👔 Enjoy learning **HTML**, **CSS**, and **JavaScript**
+- 👔 Enjoy working with **HTML**, **CSS**, and **JavaScript**
 - ✨ Like creating different types of content; including digital graphics
 - 🧙‍  Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
 - 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
