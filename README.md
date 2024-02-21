@@ -145,7 +145,7 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/randyknight"><img src="https://api.daily.dev/devcards/v2/DApntFe4RGyUoTfnJ4mfn.png?type=default&r=3d7" width="356" alt="Randy Knight's Dev Card"/></a>
+<a href="https://app.daily.dev/randyknight"><img src="https://api.daily.dev/devcards/v2/DApntFe4RGyUoTfnJ4mfn.png?type=default&r=ygy" width="356" alt="Randy Knight's Dev Card"/></a>
 
 </div>
 
