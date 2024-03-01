@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   
-  <a href="https://blog.knight-tech.work/">
+  <a href="https://randyknight.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 
@@ -58,8 +58,6 @@
   <a href="https://meta.stackoverflow.com/users/9393640/knight-tech">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
-  
-  📧 Email Me: randyk@knight-tech.work
   
 </div>
     
