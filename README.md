@@ -17,16 +17,17 @@
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - 💪 My superpower is the Salesforce platform and ecosystem!
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
-- 📢 Learning Salesforce platform on Trailhead with Ranger rank ⭐️ 
+- 👨‍🎓 Salesforce Certified AI Associate at https://trailblazer.me/id/randellknight
+- 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy working with **HTML**, **CSS**, and **JavaScript**
 - ✨ Like creating different types of content; including digital graphics
-- 🧙‍  Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
+- 🧙‍ Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
 - 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
 - 🖥️ Having fun distro-hopping Linux systems using VM's and Ventoy on USB drive 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
-- 📦 Open-source enthusiast! 🎉
+- 📦 Free and Open-source software enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
-- 🗣 Let's connect! 🥸
+- 🗣 Let's connect! 🤡
 
 <div id="badges">
 
