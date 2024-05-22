@@ -19,7 +19,7 @@
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
 - 👨‍🎓 Salesforce Certified AI Associate at https://trailblazer.me/id/randellknight
 - 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
-- 👔 Enjoy working with **HTML**, **CSS**, and **JavaScript**
+- 👔 Enjoy working with **Python**, **R**, and **DataScience** for **AI**
 - ✨ Like creating different types of content; including digital graphics
 - 🧙‍ Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
 - 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
