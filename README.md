@@ -23,7 +23,7 @@
 - ✨ Like creating different types of content; including digital graphics
 - 🧙‍ Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
 - 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
-- 🖥️ Having fun distro-hopping Linux systems using VM's and Ventoy on USB drive 🐧
+- 🖥️ Having fun distro-hopping Linux systems using VMWare Workstation VM's and Ventoy on USB 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Free and Open-source software enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
