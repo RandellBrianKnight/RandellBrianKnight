@@ -14,15 +14,14 @@
 
 ***About Me***
 
+- ✨ Currently retired 🎉
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
-- 💪 My superpower is the Salesforce platform and ecosystem!
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
-- 👨‍🎓 Salesforce Certified AI Associate at https://trailblazer.me/id/randellknight
+- 👨‍🎓 Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
 - 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy working with **Python**, **R**, and **DataScience** for **AI**
-- ✨ Like creating different types of content; including digital graphics
 - 🧙‍ Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
-- 👉 Currently using PeppermintOS/Devuan-base with XFCE for my production desktop & laptop 👨🏻‍💻
+- 👉 Using PeppermintOS with Devuan-base and XFCE for my production desktop 👨🏻‍💻
 - 🖥️ Having fun distro-hopping Linux systems using VMWare Workstation VM's and Ventoy on USB 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Free and Open-source software enthusiast! 🎉
