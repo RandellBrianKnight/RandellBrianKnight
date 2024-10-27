@@ -20,9 +20,9 @@
 - 👨‍🎓 Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
 - 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy working with **Python**, **R**, and **DataScience** for **AI**
-- 🧙‍ Proficient with Windows, MacOS, RHEL, Arch, Fedora, Ubuntu, and OpenSUSE Linux ✅
+- 🧙‍ Proficient with Windows, MacOS, RHEL, Fedora, Ubuntu, and OpenSUSE Linux ✅
 - 👉 Using PeppermintOS with Devuan-base and XFCE for my production desktop 👨🏻‍💻
-- 🖥️ Having fun distro-hopping Linux systems using VMWare Workstation VM's and Ventoy on USB 🐧
+- 🖥️ Having fun distro-hopping Linux systems using VM's and Ventoy on USB 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Free and Open-source software enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
