@@ -14,7 +14,6 @@
 
 ***About Me***
 
-- ✨ Currently retired 🎉
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
 - 👨‍🎓 Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
