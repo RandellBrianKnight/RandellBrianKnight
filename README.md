@@ -21,7 +21,7 @@
 - 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
 - 👔 Enjoy working with **Python**, **R**, and **DataScience** for **AI**
 - 👾 Proficient with Windows, MacOS, RHEL, Fedora, Ubuntu, and OpenSUSE Linux ✅
-- 👉 Using MX Linux with KDE for my production desktop 👨🏻‍💻
+- 👉 Using MX Linux for my production desktop 👨🏻‍💻
 - 🖥️ Having fun distro-hopping Linux systems using VM's and Ventoy on USB 🐧
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Free and Open-source software enthusiast! 🎉
