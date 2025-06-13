@@ -14,6 +14,7 @@
 
 ***About Me***
 
+- 🛑 Please don't send me job offers. I'm not interested. Thanks.
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
 - 👨‍🎓 Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
@@ -25,7 +26,6 @@
 - 🌱 Lifelong learner who enjoys "all things tech" ⚙️
 - 📦 Free and Open-source software enthusiast! 🎉
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
-- 🗣 Let's connect! 🤡
 
 <div id="badges">
 
@@ -41,20 +41,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://www.reddit.com/r/KnightTechWork/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  </a>
-  
-  <a href="https://randyknight.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
-
   <a href="https://dev.to/randellbrianknight">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
-  </a>
-
-  <a href="https://meta.stackoverflow.com/users/9393640/knight-tech">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
   
 </div>
