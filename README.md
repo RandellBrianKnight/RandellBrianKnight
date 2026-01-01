@@ -14,18 +14,16 @@
 
 ***About Me***
 
-- 🛑 Please don't send me job offers. I'm not interested. Thanks.
-- 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
-- 👨‍🎓 Salesforce Certified Associate at https://trailblazer.me/id/randellknight
-- 👨‍🎓 Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
-- 📢 Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
-- 👔 Enjoy working with **Python**, **R**, and **DataScience** for **AI**
-- 👾 Proficient with Windows, MacOS, RHEL, Fedora, Ubuntu, and OpenSUSE Linux ✅
-- 👉 Using Arch Linux for my production desktop 👨🏻‍💻
-- 🖥️ Having fun distro-hopping Linux systems using Docker, VM's, and Ventoy on USB 🐧
-- 🌱 Lifelong learner who enjoys "all things tech" ⚙️
-- 📦 Free and Open-source software enthusiast! 🎉
-- 🌄 Fun fact about me: I love to travel, and went all over the world while in the military 🪖
+- **Advanced Cybersecurity Certificate** from the University of Phoenix
+- Salesforce Certified Associate at https://trailblazer.me/id/randellknight
+- Salesforce Certified **AI Associate** at https://trailblazer.me/id/randellknight
+- Continuous Learning of Salesforce platform on Trailhead with Ranger rank ⭐️ 
+- Proficient with Windows, MacOS, RHEL, Fedora, Ubuntu, and OpenSUSE Linux
+- Using Arch Linux for my production desktop
+- Having fun distro-hopping Linux systems using Docker, VM's, and Ventoy on USB
+- Lifelong learner who enjoys "all things tech"
+- Free and Open-source software enthusiast!
+- Fun fact about me: I love to travel, and went all over the world while in the military
 
 <div id="badges">
 
